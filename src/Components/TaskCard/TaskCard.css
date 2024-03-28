@@ -1,0 +1,39 @@
+.task{
+    background-color: #66a3ff;
+    background-image:linear-gradient(135deg , #88C6EC 0%,#9599E2 100% );
+    width: 500px;
+    padding: 5px 10px ;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.task-titile{
+    font-size: 28px;
+    font-size: 400;
+    margin: 2px;
+    padding: 5px;
+    font-family: cursive;
+}
+.icon-img{
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 9px;
+    cursor: pointer;
+}
+.tltile-ca{
+    position: absolute;
+    right: 80px;
+    font-size: 16px;
+    background-color: white;
+    width: 80px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 800;
+
+}
